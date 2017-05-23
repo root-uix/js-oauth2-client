@@ -1,0 +1,6 @@
+.DS_Store
+.server.pid
+coverage
+node_modules
+bower_components
+index.d.ts
